@@ -215,7 +215,9 @@ All activities documented in this repository were conducted exclusively in **iso
 ##  Author
 
 **Aswini Manickam**  
-[GitHub](https://github.com/aswinimanickam) · [LinkedIn](https://linkedin.com/in/aswinimanickam)
+-  [LinkedIn](https://www.linkedin.com/in/aswini-manickam/)
+-  [GitHub](https://github.com/aswini-manickam)
+
 
 ---
 
