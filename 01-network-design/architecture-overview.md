@@ -50,7 +50,7 @@ Traffic between all three segments is controlled by zone-based firewall policies
 - **Least privilege** -all inter-zone traffic denied by default; allow rules created only for required services
 - **Explicit deny with logging** -all policy violations logged to FortiGate syslog, forwarded to Splunk
 - **NAT at perimeter** -outbound internet access via NAT on Port 1 only; no direct external access to internal segments
-- **Out-of-band management** -FortiGate management interface accessible only from SOC operator) SOC segment
+- **Out-of-band management** -FortiGate management interface accessible only from SOC operator SOC segment
 - **Log source coverage** -Universal Forwarders deployed on all Windows domain nodes, Linux hosts, and FortiGate syslog stream to ensure full SIEM visibility
 
 ---
