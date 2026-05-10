@@ -57,7 +57,7 @@ Traffic between all three segments is controlled by zone-based firewall policies
 
 ## Diagram
 
-→ [`../diagrams/network-topology-annotated.png`](../diagrams/network-topology-annotated.png)
+→ [`../diagrams/network-topology-annotated.png`](https://github.com/aswini-manickam/soc-design-implementation/blob/main/diagrams/network-topology-annotated.png)
 
 *Export your Visio file as PNG and place it at the path above. Annotate each segment with its subnet label and the FortiGate port connecting it.*
 
